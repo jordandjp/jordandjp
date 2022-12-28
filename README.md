@@ -8,6 +8,7 @@ I have been working in Software Development for more than 2 and a half years.
 
 * 🌍  I'm based in Bogotá, Colombia
 * 🧠  I'm learning Distributed Systems
+* ✉️  You can contact me at [jodjimenezpr](mailto:jodjimenezpr)
 
 ### Skills
 
